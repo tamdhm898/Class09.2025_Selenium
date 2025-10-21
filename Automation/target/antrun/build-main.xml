@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <move file="C:\CODESTAR\CLASS092025\Class09.2025_Selenium\Automation\target/Automation-apexconf.jar" tofile="C:\CODESTAR\CLASS092025\Class09.2025_Selenium\Automation\target/Automation.apc"/>
+</target>
+</project>
